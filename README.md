@@ -1,0 +1,1 @@
+This repository will be having all the terraform configuration for creating resources in Azure platform
